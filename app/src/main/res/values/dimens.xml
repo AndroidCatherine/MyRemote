@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_top">60dp</dimen>
+    <dimen name="edittext_background_height">80dp</dimen>
+    <dimen name="itemview_margin">10dp</dimen>
+    <dimen name="itemview_margin_left_right">25dp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ParkingInfo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="email_hint">Input text</string>
+    <string name="time_zone">Time Zone</string>
+    <!-- item view -->
+    <string name="alldesc">/**alldesc**/</string>
+    <string name="id">id:</string>
+    <string name="name">name:</string>
+    <string name="address">address:</string>
+    <string name="totalcar">totalcar:</string>
+
+    <string name="allavailable">/**allavailable**/</string>
+    <string name="availablecar">availablecar:</string>
+    <string name="total_standby">待機中總數:</string>
+    <string name="total_recharge">充電中總數:</string>
+</resources>
